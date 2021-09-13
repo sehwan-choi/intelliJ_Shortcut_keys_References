@@ -457,3 +457,9 @@ public class Comment {
     - 추천 테마
 - jojoldu Translation
     - 영문 코드를 한글로, 한글을 영문으로 번역해주는 기능을 제공한다.
+
+<br>
+    
+## References
+
+> [https://gmlwjd9405.github.io/2019/05/21/intellij-shortkey.html](https://gmlwjd9405.github.io/2019/05/21/intellij-shortkey.html)
