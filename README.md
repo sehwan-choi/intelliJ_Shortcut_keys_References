@@ -323,7 +323,7 @@ public class Comment {
     - Win/Linux: Ctrl + Alt + o
     - 자동 설정: [Find Action] -> Optimize imports on 입력 -> “Auto import: …”
 - 코드 자동 정렬하기 (Reformat Code)
-    - MacOS: Cmd + Opt + l
+    - MacOS: Cmd + Opt + l / Shift + Opt + Cmd + l
     - Win/Linux: Ctrl + Alt + l
 
  <br>
